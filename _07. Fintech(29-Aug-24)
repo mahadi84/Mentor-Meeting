@@ -16,7 +16,10 @@ Branches of FINTECH:
 --------------------
    1. Payment and Remittance
       -Mobile Payment(Bkash, Nagad, API)
-      -Digital Wallet( Key Features: Storing money, Making payments, Receiving payments, Managing your finances)
+      -Digital Wallet( Key Features: Storing money, Making payments, Receiving payments, Managing your finances) 
+                Ex: >Mobile wallets(smartphone apps that are often linked to your bank account or credit card)
+                    >Online wallets, 
+                    >Cryptocurrency wallets
       -Cross-border Remittance(WU, Moneygram)
    
    2. Lending(Bkah-City Bank) and Crowdfunding(Donation collection and more)
